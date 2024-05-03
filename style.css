@@ -1,0 +1,27 @@
+html {
+  background-color: orange;
+  background: url(img/CS2-logo.jpg);
+}
+
+body {
+  background: rgba(200, 255, 255, 0.8);
+  width: 600px;
+  padding: 25px 100px;
+  margin: 25px auto;
+  text-align: left;
+  border-radius: 25px;
+}
+
+h1,
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+select {
+  padding: 5px 10px;
+  font-size: 18px;
+}
+
+p {
+  font-size: 20px;
+}
